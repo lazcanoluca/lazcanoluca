@@ -1,4 +1,7 @@
-### Hi there 👋
+> All we have to decide is what to do with the time that is given us.
+> ― *Gandalf*
+
+Aspirante a gordo Linux 🐧. Muchos intereses y pocas luces 🤡. En mi iteración actual, soy programador de aplicaciones Web 🕸️. Estudiante por las tardes pero aprendiz a tiempo completo. 👾
 
 <!--
 **lazcanoluca/lazcanoluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
