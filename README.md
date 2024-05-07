@@ -15,6 +15,10 @@ Besides computer languages, I can interpret and compile my thoughts into a few d
 
 I can communicate with fellow human beings (
 
+Mantras:
+- Parse, don't validate.
+- Make invalid states unrepresentable.
+
 <!--
 **lazcanoluca/lazcanoluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
